@@ -10,7 +10,11 @@
 		"minified": true,
 		"newFeature": true
 	},
+<<<<<<< HEAD
 	"compileType": "miniprogram1111",
+=======
+	"compileType": "miniprogra",
+>>>>>>> 18ec7dcb7807a8f159e29276ceb0e5ea63a77bd1
 	"libVersion": "2.3.0",
 	"appid": "wx6baeb97bb936812f",
 	"projectname": "winxi54",
