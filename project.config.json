@@ -15,7 +15,7 @@
 	"appid": "wx6baeb97bb936812f",
 	"projectname": "winxi54",
 	"debugOptions": {
-		"hidedInDevtools": []
+		"hidedInDevtools": [55555]
 	},
 	"isGameTourist": false,
 	"condition": {
